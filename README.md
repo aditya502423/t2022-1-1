@@ -1,1 +1,1 @@
-Programming language used is java
+Programming language used is c++
